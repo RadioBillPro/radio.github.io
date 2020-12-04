@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
-<title>MyFirstRadio</title>
+<title>RadioBillPro</title>
 </head>
 <body>
 
-<img src="christmas.jpg">
+<img src="christmas.jpg" width="100%">
 
 </body>
 </html>
